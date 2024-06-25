@@ -1,0 +1,74 @@
+#logo{
+   color: blue;
+text-align: center;
+font-size: 80px;
+margin: 0px;
+font-family: sans-serif;
+}
+#login{
+width: 200px;
+margin-bottom: 8px;
+border-radius: 3px;
+border-color: rgba(255, 255, 255, 0.255);
+}
+#pass{
+width: 200px;
+border-radius: 3px;
+border-color: rgba(255, 255, 255, 0.259);
+}
+#container{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 80px;
+    padding-left: 0px;
+    padding-right: 0px;
+    border-style: solid;
+    height: 120px;
+    width: 250px;
+    border-radius: 10px;
+    border-color: white;
+    margin-left: 600px;
+    margin-top: 80px;
+    border: 2px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}
+button{
+    color: white;
+    background-color: blue;
+    margin-top: 25px;
+    width: 200px;
+    height: 28px;
+    border-radius: 3px;
+    border-color: white;
+}
+#server{
+ text-decoration: none;
+ font-size: small;
+ font-family: sans-serif;
+ color: blue;
+}
+#new{
+    background-color: green;
+    height: 30px;
+    padding:0px;
+    margin: 5px 0px 0px 0px;
+}
+p{
+    margin: 0px;
+    padding: 0px;
+}
+.foot{
+    text-decoration: none;
+    color: black;
+}
+#footer{
+    font-family: sans-serif;
+    text-align: center;
+  margin-top: 20px;
+  color: rgba(69, 63, 63, 0.542);
+  padding-right: 10px;
+  font-size: 13px;
+}
+#meta{
+    font-family: sans-serif;
+}
